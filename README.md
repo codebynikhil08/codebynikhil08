@@ -50,34 +50,61 @@ Nikhil = {
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
 ---
-
 ## 🚀 Projects
 
 | # | Project | Tech | Status |
-|---|---------|------|--------|
-| 01 | **Python 100 Days Challenge** — 100 days of Python covering DSA, automation & logic | Python | ✅ Completed |
-| 02 | **Web Development Projects** — Static sites with HTML/CSS, exploring JS interactivity | HTML · CSS · JS | ✅ Completed |
-| 03 | **Data Science Project** — End-to-end EDA + ML model for prediction | Pandas · NumPy · scikit-learn | 🔄 In Progress |
+|---|--------|------|--------|
+| 01 | **Python Projects** — Collection of Python programs covering core concepts, problem solving & automation | Python | ✅ Completed |
+| 02 | **Web Development Projects** — Static sites with HTML/CSS, currently adding JavaScript interactivity | HTML · CSS · JS | 🚧 In Progress |
+| 03 | **Data Science Project** — End-to-end EDA + ML model for prediction | Pandas · NumPy · scikit-learn | 🚧 In Progress |
 | 04 | **DSA Practice** — Arrays, linked lists, stacks, queues & sorting on HackerRank | Python · DSA | 🔄 Ongoing |
 
 ---
 
+### 🔗 Project Links
+
+- 🐍 Python Projects → https://github.com/codebynikhil08/Python-Projects-
+
 ## 🏆 Certifications
 
-- 🏅 **McKinsey Forward Program** — McKinsey & Company *(Dec 2025)*
-- 🤖 **Introduction to Generative AI** — Simplilearn SkillUp *(Sep 2025)*
+<p align="center">
+  <img src="https://github.com/codebynikhil08/codebynikhil08/assets/REPLACE_WITH_UPLOAD_ID/mckinsey.png" width="400" />
+</p>
 
+<p align="center">
+  🏅 <b>McKinsey Forward Program</b> — McKinsey & Company (Dec 2025)
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/codebynikhil08/codebynikhil08/assets/REPLACE_WITH_UPLOAD_ID/google-workspace.png" width="400" />
+</p>
+
+<p align="center">
+  🧰 <b>Google Workspace Tools</b> — Skill Badge (Introductory)
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/codebynikhil08/codebynikhil08/assets/REPLACE_WITH_UPLOAD_ID/simplilearn.png" width="400" />
+</p>
+
+<p align="center">
+  🤖 <b>Introduction to Generative AI</b> — Simplilearn SkillUp (Sep 2025)
+</p>
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebynikhil08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=e8edf5" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebynikhil08&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=00ff9d&currStreakLabel=00c6ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codebynikhil08&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=codebynikhil08&theme=tokyonight&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebynikhil08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=e8edf5" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebynikhil08&layout=compact&theme=tokyonight&cache_seconds=1800" width="40%" />
 </p>
 
 ---
