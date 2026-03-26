@@ -65,47 +65,8 @@ Nikhil = {
 
 - 🐍 Python Projects → https://github.com/codebynikhil08/Python-Projects-
 
-## 🏆 Certifications
+--- 
 
-<p align="center">
-  <img src="https://github.com/codebynikhil08/codebynikhil08/assets/REPLACE_WITH_UPLOAD_ID/mckinsey.png" width="400" />
-</p>
-
-<p align="center">
-  🏅 <b>McKinsey Forward Program</b> — McKinsey & Company (Dec 2025)
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/codebynikhil08/codebynikhil08/assets/REPLACE_WITH_UPLOAD_ID/google-workspace.png" width="400" />
-</p>
-
-<p align="center">
-  🧰 <b>Google Workspace Tools</b> — Skill Badge (Introductory)
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/codebynikhil08/codebynikhil08/assets/REPLACE_WITH_UPLOAD_ID/simplilearn.png" width="400" />
-</p>
-
-<p align="center">
-  🤖 <b>Introduction to Generative AI</b> — Simplilearn SkillUp (Sep 2025)
-</p>
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebynikhil08&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=codebynikhil08&theme=tokyonight&cache_seconds=1800" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebynikhil08&layout=compact&theme=tokyonight&cache_seconds=1800" width="40%" />
-</p>
 
 ---
 
