@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Nikhil+Sharma+%F0%9F%91%8B;Data+Science+%7C+Full-Stack+Dev;Building+the+future%2C+one+line+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Nikhil+%F0%9F%91%8B;Data+Science+%7C+Full-Stack+Developer;Building+the+future+one+line+at+a+time." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/github/followers/codebynikhil08?label=Followers&style=flat-square&color=00c6ff" alt="Followers" />
 </p>
 
----
 
 ## 🧑‍💻 About Me
 
