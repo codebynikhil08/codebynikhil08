@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm [Your Name]!
+## 👋 Hi there, I'm Nikhil Sharma!
 
-🚀 I'm passionate about building scalable and performant web and mobile applications that solve real-world problems.
+🚀 Aspiring Data Scientist & Full-Stack Developer | Building with Python, C/C++ & Web Tech | Turning ideas into real-world solutions
 
 ---
 
